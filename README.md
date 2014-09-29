@@ -36,6 +36,5 @@ The only tool that you will need to kill your enemies, will be your skill with t
 
 ### MEMBERS 
 
-*Alvaro Martinez
-*Alejandro Santos
-*"El chinit"
+* Alvaro Martinez
+* Alejandro Santos
