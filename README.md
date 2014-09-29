@@ -1,7 +1,6 @@
 # PROJECT RapidShot
 
-DESCRIPTION
-==============================
+### DESCRIPTION
 
 The project consists in developing and designing a browser game called Rapidshot. This is a 2D game, where you will have a crosshair on the cursor to kill the enemies that will appear, aiming and doing click.
 
@@ -36,6 +35,5 @@ The only tool that you will need to kill your enemies, will be your skill with t
 
 ### MEMBERS 
 
-* Alvaro Martinez
-* Alejandro Santos
-[I'm an inline-style link](https://www.google.com)
+* [Alvaro Martinez](https://github.com/AlvaroMartinez123)
+* [Alejandro Santos](https://github.com/AlejandroSantosS)
