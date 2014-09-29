@@ -12,7 +12,7 @@ The game will have several different levels, which go in progression of difficul
 The only tool that you will need to kill your enemies, will be your skill with the pointer.
 
 
-* "Application designed for mobiles and web".
+*"Application designed for mobiles and web".*
 
 
 
@@ -38,3 +38,4 @@ The only tool that you will need to kill your enemies, will be your skill with t
 
 * Alvaro Martinez
 * Alejandro Santos
+[I'm an inline-style link](https://www.google.com)
